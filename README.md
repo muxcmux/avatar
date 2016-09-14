@@ -73,11 +73,8 @@ avatars_io:
 ## Installation
 
 ```html
-<script src="md5.js"></script>
 <script src="avatar.js"></script>
 ```
-
-Avatar expects a `window.md5()` function to be defined in order to generate the hashes needed for Gravatar. One is provided as a seperate file if you would like to use your own or don't plan on using Gravatar.
 
 ## Running Tests
 
